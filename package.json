@@ -1,0 +1,30 @@
+{
+  "name": "hashwatch",
+  "version": "0.0.0",
+  "description": "listen for hashchange events in all browsers, even ie 6",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "~4.5.1",
+    "testling": "~1.7.1"
+  },
+  "scripts": {
+    "test": "testling -u"
+  },
+  "testling": {
+    "files": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/hashwatch"
+  },
+  "keywords": [
+    "hashchange",
+    "ie6"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/hashwatch/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/hashwatch"
+}
