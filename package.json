@@ -1,6 +1,6 @@
 {
   "name": "hashwatch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "listen for hashchange events in all browsers, even ie 6",
   "main": "index.js",
   "devDependencies": {
